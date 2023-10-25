@@ -19,6 +19,9 @@ class Functions extends ChangeNotifier {
     notifyListeners();
   }
 
+
+  
+
   add(int n1) async {
     SharedPreferences pref = await SharedPreferences.getInstance();
     pref.setInt('income', displayincome += n1);
