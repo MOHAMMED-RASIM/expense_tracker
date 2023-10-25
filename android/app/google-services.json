@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193321625646",
+    "project_id": "mytro-c1eb1",
+    "storage_bucket": "mytro-c1eb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193321625646:android:6732842a8eedee0188d7bf",
+        "android_client_info": {
+          "package_name": "com.example.figma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwJYDUIsXt_Fspm2FNoz0q-JixJ6g-IaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
